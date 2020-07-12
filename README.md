@@ -2,7 +2,7 @@
 
 <!-- Hy there! please open a PR if there is any typo, english is not my native language I'm always learning :heart: I hope this guide help you :heart: -->
 
-![Curved paths with multiple signs and the title: IDP Guideline](idp-cover.png)
+![Curved paths with multiple signs and the title: IDP Guideline](https://res.cloudinary.com/daiqkausy/image/upload/v1594582756/idp-cover.png)
 
 Hi there👋!
 
