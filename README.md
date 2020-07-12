@@ -32,7 +32,7 @@ In this step you should start thinking about your current moment, like answering
 > Seek out for feedbacks from your peers and managers, also don't limit yourself to a unique perspective of your performance reach out for other managers, coaches and what makes sense at your current moment
 
 
-### 📌 Defining goals
+### 🚩 Defining goals
 
 Based on your current moment, you should start thinking about your next goals
 > Relax this is not an easy thing to do, take a walk, watch some movies, be relaxed to understand what realy warms your heart and remember: there is no perfect path, the best path is the one that suits bests for *you* on *your* current moment
