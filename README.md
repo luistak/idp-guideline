@@ -7,7 +7,7 @@
 Hi there👋!
 
 This is a guide to think and prepare an individual development plan, based on a few experiences I had in the past years
-> Good preparation increases the `probability` of succes and decreases the `risk` of things going wrong along the way
+> Good preparation increases the `probability` of success and decreases the `risk` of things going wrong along the way
 
 
 ## 🚶 Steps
