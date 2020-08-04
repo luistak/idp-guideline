@@ -72,6 +72,12 @@ After you have finished your first brainstorm following those 4 steps above, you
 
 <img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Refinement diagram"/>
 
+## ✋ Examples
+
+* [Notion template](https://www.notion.so/PDI-IDP-Your-Name-c541f5a6bf574d5abf3ed6c60f8e1820)
+
+> Please feel free to contribute with your own template ❤️
+
 
 ## ❓ Questions or suggestions
 
@@ -83,5 +89,5 @@ Reach me out on:
 ## 🔧 Next steps
 
 - [ ] - Add more examples on each step
-- [ ] - Create and fill an example template using this guideline
+- [x] - Create and fill an example template using this guideline
 
