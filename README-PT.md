@@ -28,10 +28,10 @@ Nesse passo, você deve pensar sobre seu momento atual, se perguntando sobre alg
 
 - Qual é o impacto no meu contexto? (produto, time, tribo, chapter, mercado...)
 
-  > Entender onde você está, pode fazer uma diferença real, começando ser notado não só por brilhar, mas por ajudar outras pessoas a fazerem o seu melhor, é uma maneira incrível de se desenvolver e desenvolver as outras pessoas.
+  > Entender onde você está, pode fazer uma diferença real, começando ser notado não só por brilhar, mas por ajudar outras pessoas a fazerem o seu melhor, é uma maneira incrível de se desenvolver e desenvolver outras pessoas.
 
 - Quais são suas fraquezas e fortalezas?
-  > Procure por feedbacks de seus pares e líderes, também não se limite a uma unica perspectiva sobre a sua performance,pergunte a outros líderers, treinadores e qual faz mais sentido para o seu momento atual.
+  > Procure por feedbacks de seus pares e líderes, também não se limite a uma unica perspectiva sobre a sua performance, pergunte a outros líderes, treinadores e qual faz mais sentido para o seu momento atual.
 
 ### 🚩 Definindo metas
 
@@ -43,50 +43,52 @@ Baseado em seu momento atual, você deve começar a pensar sobre suas próximas 
 
   > Uma maneira mais fácil é pensar, é planejar 2, 3 e 5 anos no futuro e onde você quer estar?
 
-- Understand the [persona](https://www.interaction-design.org/literature/topics/personas) of your closest goal
-  - Responsibilities
-  - How this person think
-  - Describe every aspect of this person based on a day a day evaluation
+- Entenda a [persona](https://www.interaction-design.org/literature/topics/personas) do objetivo que quer alcançar
+  - Responsabilidades
+  - Como essa pessoa pensa
+  - Descreve cada aspecto dessa pessoa baseado na avaliação do dia a dia
 
-### 📈 Defining results and impacts
+### 📈 Definindo resultados e impactos
 
-Based on your closest goal to achieve:
+Baseado no objetivo mais próximo que deseja atingir
 
-- Think on the results and impacts you want to achieve
+- Pense nos resultados e impactos que você quer atingir
 
-  > Instead of what to do, think on what would be notable to represent that you are getting next to your goal or achieving it
+  > Ao invés do que fazer, pense no que você poderá notar, que irá mostrar que você está próximo do seu objetivo ou alcançando-o
 
-- Break it into small deliverables with deadlines
+- Quebre em pequenas tarefas com prazos
 
-### 📝 Defining actions
+### 📝 Definindo ações
 
-Based on every result and impact you want to achieve
+Baseado em todo resultado e impacto que você quer atingir
 
-- "Brainstorm" your actions, write everything that could come to your mind about future stuffs you could do.
-- Understand what you can, could, and don't know how to do
-  > Go straight forward looking for answers to understand what you don't know how to do or where to start from.
-  > Refining
+- "Brainstorm" (reunir as ideias) das suas ações, escreva tudo que vir na sua mente, sobre coisas que você poderá fazer;
+- Entenda o que você pode, poderia ou não saber como fazer.
 
-## ➿ Refinement
+  > Siga em frente, procurando respostas para entender o que você não sabe como fazer ou por onde começar.
 
-After you have finished your first brainstorm following those 4 steps above, you must refine it, thinking what do make sense based on your current context and most close goal following the fluxogram below
+  > Refinando
+
+## ➿ Refinamento
+
+Depois que você terminar seu primeiro "brainstorm" seguindo as 4 etapas acima, você deve refinar isso, pensando no que faz sentido baseado no seu contexto atual e objetivo mais próximo seguindo o fluxograma abaixo:
 
 <img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Refinement diagram"/>
 
-## ✋ Examples
+## ✋ Exemplos
 
-- [Notion template](https://www.notion.so/PDI-IDP-Your-Name-c541f5a6bf574d5abf3ed6c60f8e1820)
+- [Noção template](https://www.notion.so/PDI-IDP-Your-Name-c541f5a6bf574d5abf3ed6c60f8e1820)
 
-> Please feel free to contribute with your own template ❤️
+> Por favor, sinta-se a vontade com contribuir com seu próprio template ❤️
 
-## ❓ Questions or suggestions
+## ❓ Perguntas ou sugestões
 
-Reach me out on:
+Encontre-me:
 
 - [Twitter](https://twitter.com/_luistak)
 - [Dev.to](https://dev.to/luistak)
 
-## 🔧 Next steps
+## 🔧 Próximos passos
 
-- [ ] - Add more examples on each step
-- [x] - Create and fill an example template using this guideline
+- [ ] - Adicione mais exemplos em cada etapa
+- [x] - Crie e preencha usando o template de exemplo que foi usado nesse guia
