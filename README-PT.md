@@ -73,7 +73,7 @@ Baseado em todo resultado e impacto que você quer atingir
 
 Depois que você terminar seu primeiro "brainstorm" seguindo as 4 etapas acima, você deve refinar isso, pensando no que faz sentido baseado no seu contexto atual e objetivo mais próximo seguindo o fluxograma abaixo:
 
-<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Refinement diagram"/>
+<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Diagrama de refinamento"/>
 
 ## ✋ Exemplos
 
