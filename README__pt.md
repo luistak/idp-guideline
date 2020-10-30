@@ -20,11 +20,11 @@ Nesse passo, você deve pensar sobre seu momento atual, se perguntando sobre alg
 
 - Quais são os níveis (júnior, pleno, sênior), no meu contexto? (na gerência, tribo e empresa)
 
-  > Você pode ler isso [artigo incrível em inglês](https://www.swyx.io/writing/career-ladders/) sobre o plano de carreira dentro da engenharia em: [swyx.io](https://www.swyx.io/)
+  > Você pode ler esse [artigo incrível em inglês](https://www.swyx.io/writing/career-ladders/) sobre o plano de carreira dentro da engenharia em: [swyx.io](https://www.swyx.io/)
 
 - Onde eu estou?
 
-  > Qual é meu nível atual? Júnior, Pleno, Senior? Depende da sua empresa ou do seu cargo que você busca
+  > Qual é meu nível atual? Júnior, Pleno, Senior? Depende da sua empresa ou do cargo que você busca
 
 - Qual é o impacto no meu contexto? (produto, time, tribo, chapter, mercado...)
 
@@ -45,8 +45,8 @@ Baseado em seu momento atual, você deve começar a pensar sobre suas próximas 
 
 - Entenda a [persona](https://www.interaction-design.org/literature/topics/personas) do objetivo que quer alcançar
   - Responsabilidades
-  - Como essa pessoa pensa
-  - Descreve cada aspecto dessa pessoa baseado na avaliação do dia a dia
+  - Como essa pessoa pensa?
+  - Descreva cada aspecto dessa pessoa baseado na avaliação do dia a dia
 
 ### 📈 Definindo resultados e impactos
 
@@ -63,7 +63,7 @@ Baseado no objetivo mais próximo que deseja atingir
 Baseado em todo resultado e impacto que você quer atingir
 
 - "Brainstorm" (reunir as ideias) das suas ações, escreva tudo que vir na sua mente, sobre coisas que você poderá fazer;
-- Entenda o que você pode, poderia ou não saber como fazer.
+- Entenda o que você pode, poderia ou não sabe como fazer.
 
   > Siga em frente, procurando respostas para entender o que você não sabe como fazer ou por onde começar.
 
@@ -73,7 +73,7 @@ Baseado em todo resultado e impacto que você quer atingir
 
 Depois que você terminar seu primeiro "brainstorm" seguindo as 4 etapas acima, você deve refinar isso, pensando no que faz sentido baseado no seu contexto atual e objetivo mais próximo seguindo o fluxograma abaixo:
 
-<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Refinement diagram"/>
+<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" height="100px;" alt="Diagrama do refinamento"/>
 
 ## ✋ Exemplos
 
@@ -92,3 +92,5 @@ Encontre-me:
 
 - [ ] - Adicione mais exemplos em cada etapa
 - [x] - Crie e preencha usando o template de exemplo que foi usado nesse guia
+
+\_[Readme em inglês](README.md)

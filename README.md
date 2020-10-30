@@ -71,7 +71,7 @@ Based on every result and impact you want to achieve
 
 After you have finished your first brainstorm following those 4 steps above, you must refine it, thinking what do make sense based on your current context and most close goal following the fluxogram below
 
-<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" heigth="100px;" alt="Refinement diagram"/>
+<img align="center" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594581200/idp-refinement.png" height="100px;" alt="Refinement diagram"/>
 
 ## ✋ Examples
 
@@ -90,3 +90,5 @@ Reach me out on:
 
 - [ ] - Add more examples on each step
 - [x] - Create and fill an example template using this guideline
+
+\_[Readme in portuguese](README__pt.md)
