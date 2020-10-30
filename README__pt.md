@@ -1,6 +1,6 @@
 # IDP Guideline
 
-# Guia IDP (Plano de desenvolvimento pessoal) 📈
+# Guia PDI (Plano de desenvolvimento pessoal) 📈
 
 ![Curvas multiplcas do: IDP Guideline](https://res.cloudinary.com/daiqkausy/image/upload/v1594582756/idp-cover.png)
 
