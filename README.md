@@ -18,7 +18,7 @@ This guideline is totally based on _you_ and is composed by four continuous step
 
 In this step you should start thinking about your current moment, like answering a few questions:
 
-- What are the levels(jr, pl, sr) in my context? (for your manager, tribe and company)
+- What are the levels(junior, middle, senior) in my context? (for your manager, tribe and company)
 
   > You can read this [awesome article](https://www.swyx.io/writing/career-ladders/) about engineering career ladders on [swyx.io](https://www.swyx.io/)
 
