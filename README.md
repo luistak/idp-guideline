@@ -39,7 +39,7 @@ Based on your current moment, you should start thinking about your next goals
 
 > Relax this is not an easy thing to do, take a walk, watch some movies, be relaxed to understand what really warms your heart and remember: there is no perfect path, the best path is the one that suits bests for _you_ on _your_ current moment
 
-- Understand future goal, or most close goal to achieve (Ex: become a Sr. Engineer)
+- Understand your future goal, or your closest goal to achieve (Ex: become a Sr. Engineer)
 
   > A common way to think about this is planning 2, 3, and 5 years in the future where you want to be?
 
