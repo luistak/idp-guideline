@@ -77,7 +77,7 @@ Depois que você terminar seu primeiro "brainstorm" seguindo as 4 etapas acima, 
 
 ## ✋ Exemplos
 
-- [Noção template](https://www.notion.so/PDI-IDP-Your-Name-c541f5a6bf574d5abf3ed6c60f8e1820)
+- [Template no Notion](https://www.notion.so/PDI-IDP-Your-Name-c541f5a6bf574d5abf3ed6c60f8e1820)
 
 > Por favor, sinta-se a vontade com contribuir com seu próprio template ❤️
 
